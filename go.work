@@ -1,0 +1,6 @@
+go 1.19
+
+use (
+	./5.go-modules
+	./go-oop
+)
