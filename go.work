@@ -2,5 +2,8 @@ go 1.19
 
 use (
 	./5.go-modules
-	./go-oop
+	./6.unit-tests
+	./7.go-gin
+	./8.go-oop
+	./hands-on/2.unit-tests
 )
